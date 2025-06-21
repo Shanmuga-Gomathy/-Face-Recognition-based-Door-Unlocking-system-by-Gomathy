@@ -18,13 +18,19 @@ This Python project collects face images using OpenCV's Haar Cascade to build a 
 
 ## 📁 File Structure
 
-.
+
 ├── collect_faces.py         # This script
+
 ├── haarcascade_frontalface_default.xml
+
 └── datasets/
+
     └── <your_name>/
+    
         ├── 1.png
+        
         ├── 2.png
+        
         └── ...
 
 ---
